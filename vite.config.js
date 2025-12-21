@@ -44,6 +44,7 @@ export default defineConfig({
         'resources/css/app.css',
         'resources/assets/css/demo.css',
         'resources/js/app.js',
+        'resources/js/select2.js',
         ...pageJsFiles,
         ...vendorJsFiles,
         ...LibsJsFiles,

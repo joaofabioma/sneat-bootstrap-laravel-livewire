@@ -11,6 +11,7 @@
 <!-- END: Page Vendor JS-->
 
 @vite(['resources/js/app.js'])
+@vite(['resources/js/select2.js'])
 
 <!-- BEGIN: Page JS-->
 @yield('page-script')
