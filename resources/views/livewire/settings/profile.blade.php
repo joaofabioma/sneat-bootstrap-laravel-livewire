@@ -68,7 +68,7 @@ new class extends Component {
     }
 }; ?>
 
-@section('title', 'Profile')
+@section('title', __('Profile'))
 
 <section>
     @include('partials.settings-heading')
